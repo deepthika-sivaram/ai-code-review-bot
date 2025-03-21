@@ -92,3 +92,11 @@ Contributions are welcome! Feel free to:
 * Fork the repository 🍴
 * Create a feature branch (git checkout -b feature-new)
 * Submit a Pull Request ✅
+
+## 🔗 Resources & Docs
+GitHub API Docs
+FastAPI Docs
+OpenAI API Docs
+
+##📜 License
+💡 Built with ❤️ by Deepthika Sivaram
