@@ -98,5 +98,5 @@ GitHub API Docs
 FastAPI Docs
 OpenAI API Docs
 
-##📜 License
+## 📜 License
 💡 Built with ❤️ by Deepthika Sivaram
