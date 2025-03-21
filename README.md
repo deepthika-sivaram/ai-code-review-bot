@@ -85,6 +85,6 @@ Once a PR is opened, the bot posts structured feedback like this:
 
 ## 🛠 Contributing
 Contributions are welcome! Feel free to:
-  Fork the repository 🍴
-  Create a feature branch (git checkout -b feature-new)
-  Submit a Pull Request ✅
+* Fork the repository 🍴
+* Create a feature branch (git checkout -b feature-new)
+* Submit a Pull Request ✅
