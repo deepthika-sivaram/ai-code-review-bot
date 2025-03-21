@@ -78,6 +78,10 @@ Once a PR is opened, the bot posts structured feedback like this:
   AWS Lambda (for serverless)
   
 ## 📌 Future Enhancements
+✅ Include all requests in one API call
+   ```bash
+   responses = await llm.agenerate([prompts])
+   ```
 ✅ Support for multiple programming languages
 ✅ Ability to fine-tune AI suggestions based on project type
 ✅ Custom rule-based linting with AI feedback
